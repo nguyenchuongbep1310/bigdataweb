@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-inline{
+  width: 40%;
+}
+
+.form-inline .form-control{
+  width: 80%;
+
+}
+
+.navbar-brand{
+  color: black;
+}
+.flex--item{
+  margin-top: 30px;
+}
+
